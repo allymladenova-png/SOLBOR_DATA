@@ -1,0 +1,501 @@
+{
+ "exported_at": "2026-10-01",
+ "currency": "EUR",
+ "channels": [
+  {
+   "name": "Booking.com",
+   "type": "OTA",
+   "commission": [
+    {
+     "from": "2024-01-01",
+     "to": "2026-12-31",
+     "pct": 15
+    }
+   ],
+   "programs": [
+    {
+     "name": "Genius",
+     "from": "2026-01-01",
+     "guest_discount_pct": 10,
+     "paid_by": "хотела"
+    },
+    {
+     "name": "Preferred Partner Plus",
+     "status": "оферта за 2027",
+     "commission_pct": 18,
+     "promised": "до +20% показвания"
+    }
+   ]
+  },
+  {
+   "name": "Expedia",
+   "type": "OTA",
+   "commission": [
+    {
+     "from": "2024-01-01",
+     "to": "2026-12-31",
+     "pct": 18
+    }
+   ]
+  },
+  {
+   "name": "Туроператор",
+   "type": "договор",
+   "partner": "Балкан Травел",
+   "net_rate_discount_pct": 25,
+   "hotels": [
+    "Сол и Бор Созопол",
+    "Сол и Бор Банско"
+   ]
+  },
+  {
+   "name": "Директно — сайт",
+   "type": "директен",
+   "commission": [
+    {
+     "pct": 0
+    }
+   ]
+  },
+  {
+   "name": "Директно — телефон",
+   "type": "директен",
+   "commission": [
+    {
+     "pct": 0
+    }
+   ]
+  }
+ ],
+ "marketing_direct": [
+  {
+   "month": "2024-01",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 2817.53
+    },
+    {
+     "channel": "Meta",
+     "eur": 1708.81
+    }
+   ]
+  },
+  {
+   "month": "2024-02",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 2665.67
+    },
+    {
+     "channel": "Meta",
+     "eur": 1780.66
+    }
+   ]
+  },
+  {
+   "month": "2024-03",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1730.11
+    },
+    {
+     "channel": "Meta",
+     "eur": 1329.75
+    }
+   ]
+  },
+  {
+   "month": "2024-04",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1806.87
+    },
+    {
+     "channel": "Meta",
+     "eur": 1226.81
+    }
+   ]
+  },
+  {
+   "month": "2024-05",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 2424.85
+    },
+    {
+     "channel": "Meta",
+     "eur": 1803.62
+    }
+   ]
+  },
+  {
+   "month": "2024-06",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 2739.66
+    },
+    {
+     "channel": "Meta",
+     "eur": 1962.89
+    }
+   ]
+  },
+  {
+   "month": "2024-07",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1786.05
+    },
+    {
+     "channel": "Meta",
+     "eur": 1197.18
+    }
+   ]
+  },
+  {
+   "month": "2024-08",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1973.65
+    },
+    {
+     "channel": "Meta",
+     "eur": 1271.66
+    }
+   ]
+  },
+  {
+   "month": "2024-09",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1917.84
+    },
+    {
+     "channel": "Meta",
+     "eur": 1164.17
+    }
+   ]
+  },
+  {
+   "month": "2024-10",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1417.91
+    },
+    {
+     "channel": "Meta",
+     "eur": 1035.94
+    }
+   ]
+  },
+  {
+   "month": "2024-11",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1625.46
+    },
+    {
+     "channel": "Meta",
+     "eur": 1008.34
+    }
+   ]
+  },
+  {
+   "month": "2024-12",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1764.34
+    },
+    {
+     "channel": "Meta",
+     "eur": 1387.17
+    }
+   ]
+  },
+  {
+   "month": "2025-01",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 2674.53
+    },
+    {
+     "channel": "Meta",
+     "eur": 1519.57
+    }
+   ]
+  },
+  {
+   "month": "2025-02",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 2537.37
+    },
+    {
+     "channel": "Meta",
+     "eur": 1719.72
+    }
+   ]
+  },
+  {
+   "month": "2025-03",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1852.03
+    },
+    {
+     "channel": "Meta",
+     "eur": 1250.67
+    }
+   ]
+  },
+  {
+   "month": "2025-04",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1892.98
+    },
+    {
+     "channel": "Meta",
+     "eur": 1250.88
+    }
+   ]
+  },
+  {
+   "month": "2025-05",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 2242.94
+    },
+    {
+     "channel": "Meta",
+     "eur": 1667.25
+    }
+   ]
+  },
+  {
+   "month": "2025-06",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 2417.92
+    },
+    {
+     "channel": "Meta",
+     "eur": 1495.34
+    }
+   ]
+  },
+  {
+   "month": "2025-07",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1679.53
+    },
+    {
+     "channel": "Meta",
+     "eur": 1208.31
+    }
+   ]
+  },
+  {
+   "month": "2025-08",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1864.79
+    },
+    {
+     "channel": "Meta",
+     "eur": 1085.31
+    }
+   ]
+  },
+  {
+   "month": "2025-09",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1615.97
+    },
+    {
+     "channel": "Meta",
+     "eur": 1265.84
+    }
+   ]
+  },
+  {
+   "month": "2025-10",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1355.25
+    },
+    {
+     "channel": "Meta",
+     "eur": 980.3
+    }
+   ]
+  },
+  {
+   "month": "2025-11",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1309.45
+    },
+    {
+     "channel": "Meta",
+     "eur": 907.14
+    }
+   ]
+  },
+  {
+   "month": "2025-12",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1913.71
+    },
+    {
+     "channel": "Meta",
+     "eur": 1093.03
+    }
+   ]
+  },
+  {
+   "month": "2026-01",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1685.38
+    },
+    {
+     "channel": "Meta",
+     "eur": 1138.22
+    }
+   ]
+  },
+  {
+   "month": "2026-02",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1538.24
+    },
+    {
+     "channel": "Meta",
+     "eur": 1076.08
+    }
+   ]
+  },
+  {
+   "month": "2026-03",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1207.53
+    },
+    {
+     "channel": "Meta",
+     "eur": 827.25
+    }
+   ]
+  },
+  {
+   "month": "2026-04",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1074.43
+    },
+    {
+     "channel": "Meta",
+     "eur": 704.13
+    }
+   ]
+  },
+  {
+   "month": "2026-05",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1704.35
+    },
+    {
+     "channel": "Meta",
+     "eur": 976.18
+    }
+   ]
+  },
+  {
+   "month": "2026-06",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1464.46
+    },
+    {
+     "channel": "Meta",
+     "eur": 1125.45
+    }
+   ]
+  },
+  {
+   "month": "2026-07",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1126.62
+    },
+    {
+     "channel": "Meta",
+     "eur": 760.97
+    }
+   ]
+  },
+  {
+   "month": "2026-08",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1033.41
+    },
+    {
+     "channel": "Meta",
+     "eur": 763.21
+    }
+   ]
+  },
+  {
+   "month": "2026-09",
+   "spend": [
+    {
+     "channel": "Google Ads",
+     "eur": 1072.96
+    },
+    {
+     "channel": "Meta",
+     "eur": 793.22
+    }
+   ]
+  }
+ ]
+}
